@@ -28,7 +28,7 @@ __set up remote__
 
 set up a remote peer (like github)
 
-`git remote add origin https://github.com/account/reponame.git`
+`git remote add origin https://github.com/Slimjim821/CIDM5310.git`
 
 __push to remote__
 
